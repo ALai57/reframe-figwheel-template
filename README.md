@@ -1,10 +1,16 @@
 # reframe-figwheel
 
-A Leiningen template for FIXME.
+A Leiningen template for a CLJS reframe SPA built using figwheel-main.
 
 ## Usage
 
-FIXME
+Install leiningen
+
+Once installed, run the command:
+`lein new reframe-figwheel <PROJECT_NAME>`
+
+This will create a new folder PROJECT_NAME with a working skeleton for a reframe app.
+`cd PROJECT_NAME` and you can see the readme with more instructions
 
 ## License
 
